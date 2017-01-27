@@ -8,4 +8,4 @@ Use for
 
 # Hello Sunshine
 This is light & hygge for 2017.
-> Danish hygge rocks> unknown
+> Danish hygge rocks unknown
